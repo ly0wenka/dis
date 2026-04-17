@@ -1,0 +1,1 @@
+ 'C:/Users/Валера/AppData/Local/Programs/Python/Python313/python.exe' -m pip install math2docx python-docx latex2mathml mathml2omml lxml
